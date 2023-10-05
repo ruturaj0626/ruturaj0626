@@ -9,6 +9,8 @@ I'm a data science enthusiast from Pune, with a passion for turning data into in
 - 🌐 Comfortable with tools like TensorFlow, Keras, OpenCV, and Git.
 - 🚀 Always open to exciting data science projects and collaborations.
 
+**Check out my [Data Science Portfolio](https://github.com/ruturaj0626/Data-Science-Portfolio) for a closer look at my work!**
+
 Let's connect and create some data magic together! ☕
 
 Thanks for visiting my GitHub!
