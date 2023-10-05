@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Ruturaj! 👋
+
+I'm a data science enthusiast from Pune, with a passion for turning data into insights. Here's a quick snapshot of what I bring to the table:
+
+- 🎓 Currently pursuing a Master Certification in Data Science, AIML & AWS.
+- 📚 Background in  Data Science & Mechanical Engineering.
+- 🏆 Certified in Data Science, Computer Vision, AI, NLP, and more.
+- 💼 Skills include data analysis, deep learning, machine learning, data visualization, web scraping, and more.
+- 🌐 Comfortable with tools like TensorFlow, Keras, OpenCV, and Git.
+- 🚀 Always open to exciting data science projects and collaborations.
+
+Let's connect and create some data magic together! ☕
+
+Thanks for visiting my GitHub!
+
+📫 Reach me at: 
 
 <p>
   <a href="mailto:ruturaj26201@gmail.com" style="margin-right: 10px;">
