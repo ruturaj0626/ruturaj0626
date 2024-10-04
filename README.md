@@ -1,21 +1,24 @@
 # Hi there, I'm Ruturaj! 👋
 
-I'm a data science enthusiast from Pune, with a passion for turning data into insights. Here's a quick snapshot of what I bring to the table:
+I'm a data science enthusiast based in Pune, with a love for finding patterns and insights hidden in data. If you're looking for someone with a mix of technical expertise and team spirit, you've come to the right place! Here's a quick look at what I bring to the table:
 
-- 🎓 Currently pursuing a Master Certification in Data Science, AIML & AWS.
-- 📚 Background in  Data Science & Mechanical Engineering.
-- 🏆 Certified in Data Science, Computer Vision, AI, NLP, and more.
-- 💼 Skills include data analysis, deep learning, machine learning, data visualization, web scraping, and more.
-- 🌐 Comfortable with tools like TensorFlow, Keras, OpenCV, and Git.
-- 🚀 Always open to exciting data science projects and collaborations.
+- 🎓 Completed a Master Certification in Data Science, AIML & AWS.
+- 📚 Background in Data Science & Mechanical Engineering.
+- 💻 Proficient in **Python** (OOPs, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn), **SQL** (Intermediate), and **Bash Scripting**.
+- 📊 Solid understanding of **Linear Algebra**, **Calculus**, **Statistics**, and **Probability**—core building blocks for data science.
+- 🤖 Hands-on with **Machine Learning** techniques like Linear/Logistic Regression, Decision Trees, Naive Bayes, and Support Vector Machines.
+- 🛠️ Experienced with **Git**, **MLops basics**, and **version control**.
+- 🌐 Adept with **TensorFlow**, **Keras**, **OpenCV**, and more.
+- 🚀 Open to cool data science projects, especially in **data visualization**, **ML**, and **web scraping**.
+- ✨ Strong communicator with experience collaborating across teams to create impactful data-driven solutions.
 
-**Check out my [Data Science Portfolio](https://github.com/ruturaj0626/Data-Science-Portfolio) for a closer look at my work!**
+Check out my [Data Science Portfolio](https://github.com/ruturaj0626/Data-Science-Portfolio) for a closer look at my projects!
 
-Let's connect and create some data magic together! ☕
+Let's connect and work on something exciting together! ☕
 
-Thanks for visiting my GitHub!
+Thanks for stopping by!
 
-📫 Reach me at: 
+📫 Feel free to reach out:
 
 <p>
   <a href="mailto:ruturaj26201@gmail.com" style="margin-right: 10px;">
@@ -30,17 +33,3 @@ Thanks for visiting my GitHub!
     <img src="https://github.com/ruturaj0626/Data-Science-Portfolio/blob/main/LinkedIn.jpg" alt="LinkedIn" width="50" height="50">
   </a>  
 </p>
-<!--
-**ruturaj0626/ruturaj0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
